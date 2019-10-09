@@ -17,3 +17,5 @@ github_username: artreadyan.github.io
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
