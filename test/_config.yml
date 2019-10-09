@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Frustrated Python Dev
+email: dyanestacio@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This will be a site explaining the repositiores and some stories on why I did those. I might include he steps on how I did it in the near future.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: ArtreaDyan
+github_username: artreadyan.github.io
+
+# Build settings
+markdown: kramdown
